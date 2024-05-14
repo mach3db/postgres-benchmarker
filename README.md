@@ -11,3 +11,9 @@ line 21: query\
 line 43: base_dir
 
 also change line 12: host if you aren't benchmarking mach3db (the world's fastest database as a service)
+
+--
+
+You need Python3 installed to run the script along with the following dependencies:\
+psycopg3\
+pandas
